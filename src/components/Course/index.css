@@ -1,0 +1,17 @@
+li {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+p {
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  font-size: 25px;
+  color: #1e293b;
+}

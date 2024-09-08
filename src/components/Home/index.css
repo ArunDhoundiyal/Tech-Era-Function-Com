@@ -1,0 +1,25 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  background-size: cover;
+  font-family: 'Roboto';
+}
+
+.display-course-list-container {
+  margin-top: 75px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  color: #1e293b;
+}
