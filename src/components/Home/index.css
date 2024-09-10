@@ -4,8 +4,17 @@
   background-color: #ffffff;
   background-size: cover;
   font-family: 'Roboto';
+  height: 100vh;
 }
-
+.bg-loader-home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+  background-size: cover;
+  font-family: 'Roboto';
+  height: 100vh;
+}
 .display-course-list-container {
   margin-top: 75px;
   padding-left: 50px;
@@ -22,4 +31,8 @@ ul {
 }
 h1 {
   color: #1e293b;
+}
+.loader {
+  display: flex;
+  justify-content: center;
 }

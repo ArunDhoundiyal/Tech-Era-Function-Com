@@ -1,0 +1,22 @@
+.not-found-bg-container {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  height: 100vh;
+}
+.not-found-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 75px;
+  height: 100%;
+}
+.not-found {
+  height: 50vh;
+  width: 50vw;
+}
+.not-found-heading {
+  font-family: Roboto;
+  text-align: center;
+  color: #1e293b;
+}
